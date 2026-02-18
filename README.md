@@ -1,4 +1,4 @@
-onfirmation Modal
+Confirmation Modal
 A simple React confirmation modal component built with React Hooks.
 Demo
 The app displays an Open Confirmation Modal button. Clicking it opens a modal with Confirm and Cancel buttons. After the user makes a choice, the status is displayed below the button.
